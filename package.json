@@ -1,0 +1,25 @@
+{
+  "name": "pm2-process-comm",
+  "version": "0.0.2",
+  "description": "pm2 进程间通信模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunkeysun/pm2-process-comm.git"
+  },
+  "author": "sunkeysun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunkeysun/pm2-process-comm/issues"
+  },
+  "homepage": "https://github.com/sunkeysun/pm2-process-comm#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "pm2": "^3.2.4",
+    "pmx": "^1.6.7",
+    "semver": "^5.6.0"
+  }
+}

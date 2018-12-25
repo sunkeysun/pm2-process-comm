@@ -1,2 +1,2 @@
 # pm2-process-comm
-pm2 进程间通信
+pm2 进程间通信模块
